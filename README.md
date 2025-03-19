@@ -147,12 +147,7 @@ HTTPS：443，2053，2083，2087，2096，8443
 [3Kmfi6HP](https://github.com/3Kmfi6HP/EDtunnel)、[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/config)
 
 # 
-<center>
-<details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
-*我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
 
-- **USDT-TRC20:** `TWTxUyay6QJN3K4fs4kvJTT8Zfa2mWTwDD`
-- **TRX-TRC20:** `TWTxUyay6QJN3K4fs4kvJTT8Zfa2mWTwDD`
 
 <div align="center"> 
   <img src="https://github.com/user-attachments/assets/e6cdc42a-6374-4722-b833-601738f72196" width="200"></br> 
